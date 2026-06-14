@@ -1,0 +1,29 @@
+From 4e1694e8e113752dc4ee0fa6429093100fb41820 Mon Sep 17 00:00:00 2001
+From: iChubatenko <doubleredbull@gmail.com>
+Date: Sun, 14 Jun 2026 18:50:25 +0200
+Subject: [PATCH] Modify firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 4083766..ac1f383 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ line1
+-line2
++modified step7
+ line3
+ line4
+ line5
+ line6
+-line7
++modified step7
+ line8
+ line9
+ line10
+-- 
+2.54.0
+

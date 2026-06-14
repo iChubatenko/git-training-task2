@@ -1,10 +1,12 @@
 line1
 line2
 git1 line3
+git2 line3
 line4
 line5
 line6
 git1 line7
+git2 line7
 line8
 line9
 line10

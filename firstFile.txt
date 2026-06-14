@@ -2,8 +2,8 @@ line1
 modified step7
 line3
 line4
-line5
-modified step8
+folder1 line5
+folder1 line6
 modified step7
 modified step8
 line9
